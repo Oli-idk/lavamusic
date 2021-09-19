@@ -14,7 +14,7 @@ module.exports = {
         await interaction.deferReply({
             ephemeral: false
         });
-        await interaction.editReply({ content: "Pining..." }).then(async () => {
+        await interaction.editReply({ content: "Pinging..." }).then(async () => {
             const ping = Date.now() - interaction.createdAt;
             const api_ping = client.ws.ping;
 
