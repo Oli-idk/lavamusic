@@ -24,11 +24,18 @@
     Lavamusic is  a powerful music Bot
     <br />
     <br />
+    <a href="https://discord.com/api/oauth2/authorize?client_id=875635121770889257&permissions=36768832&scope=applications.commands%20bot">Invite Lavamusic</a>
+    ·
     <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
     ·
     <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
   </p>
 </p>
+
+
+## 📝 Tutorial
+
+A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://youtu.be/x5lQD2rguz0)
 
 
 ## 🎭 Features
@@ -44,9 +51,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/brblacky/lavamusic">
-    <img src="https://media.discordapp.net/attachments/649085622702833664/878327454140338186/Screenshot_20210820-224454__01.jpg">
-    <img src="https://media.discordapp.net/attachments/649085622702833664/878327453913862184/Screenshot_20210820-224506__01.jpg">
-    <img src="https://media.discordapp.net/attachments/649085622702833664/878327454433951754/Screenshot_20210820-224625__01.jpg">
+    <img src="https://media.discordapp.net/attachments/876035356460462090/889326832380411904/Screenshot_20210920-071348__01.jpg">
+    <img src="https://media.discordapp.net/attachments/876035356460462090/889326832686616646/Screenshot_20210920-071527__01.jpg">
+    <img src="https://media.discordapp.net/attachments/876035356460462090/889326831965208616/Screenshot_20210920-071638__01.jpg">
 
   </a>
 </p>
